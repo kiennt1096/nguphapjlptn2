@@ -1,16 +1,19 @@
-# nguphapn2_app
+# Ngữ pháp JLPT N2
 
-A new Flutter project.
+Những Ngữ pháp thường gặp trong các kỳ thi năng lực tiếng Nhật trình độ N2!
 
-## Getting Started
+## Thông tin ứng dụng
 
-This project is a starting point for a Flutter application.
+- Cách sử dùng chi tiết kèm ví dụ của gần 200 Ngữ pháp
+- Ôn tập Ngữ pháp với bài kiểm tra nhỏ sau mỗi bài học
+- Ghi nhớ Ngữ pháp và học lại bất cứ lúc nào
+- Mỗi ngày một Ngữ pháp ngẫu nhiên từ ngay màn hình chính
 
-A few resources to get you started if this is your first Flutter project:
+## Download 
+- Google Play Store: [Ngữ pháp JLPT N2](https://play.google.com/store/apps/details?id=com.kiennt1096.nguphapn2_app.nguphapn2_app)
+- App Store: Đang cập nhập 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Liên hệ tác giả 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- facebook: [@KienNT1096](https://www.facebook.com/KienNT1096/)
+- Gmail: [@KienNT1096](https://mail.google.com/mail/?view=cm&source=mailto&to=kiennt1096@gmail.com)
