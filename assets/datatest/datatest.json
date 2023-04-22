@@ -1,0 +1,1003 @@
+{
+  "nguPhapList": [
+  {
+    "id": 1,
+    "tenNguPhap": "げ",
+    "congthucT": "A い(bỏ い)\nA な(bỏ な)\nN\nVたい(bỏ い)",
+    "congthucS": "げ",
+    "nghia": "Trông có vẻ…",
+    "cachSD": "Miêu tả dáng vẻ/ trạng thái cảm xúc của con người\n\nLà cách nói cổ của そう\n\nCụm từ cố định 意味ありげ",
+    "viDu": "あの子に何かあったのだろうか、悲しげな 表 情 をしている\n子ども相手にそんなにむきになるなんて、大人げない\n彼は先生に対し何か言いたげな様子であった"
+  },
+  {
+    "id": 2,
+    "tenNguPhap": "とか",
+    "congthucT": "普通形",
+    "congthucS": "とか",
+    "nghia": "Thấy bảo hình như là…",
+    "cachSD": "Là cách nói truyền đạt lại thông tin nghe được, đọc được ở đâu đó, nhưng chứa cảm xúc không chắc chắn. Thường được nghe trong phim, hài kịch, hoạt hình…\n\nCách nói suồng sã nhưng trong thực tế không hay nói",
+    "viDu": "最近は若者にタピオカという飲み物が人気だとか\n\n彼女の結婚相手は有名企業の社長だとか\n\nあの会社は、福利厚生が充実しているとか"
+  },
+  {
+    "id": 3,
+    "tenNguPhap": "ていく/~てくる",
+    "congthucT": "V thể て",
+    "congthucS": "ていく\nてくる",
+    "nghia": "Nhiều nghĩa",
+    "cachSD": "Làm hành động gì đó rồi di chuyển đến đâu đó\n\nDiễn tả trạng thái liên tục diễn ra của 1 hành động\n\nDiễn tả sự thay đổi dần dần của 1 trạng thái\n\nChỉ hướng của hành động từ điểm nhìn của người nói\n\nDiễn tả sự xuất hiện/ biến mất của 1 trạng thái (mới)",
+    "viDu": "これからは、日本語を勉強するベトナム人が増えていくだろう \n\n今日は、仕事の後飲み会に行ってきた\n\n公園で友達と遊んでいたら、母が声をかけてきた\n\n私は、3歳の頃からバイオリンを習ってきた\n\nお腹に子どもができてから、心配事が出てきた"
+  },
+  {
+    "id": 4,
+    "tenNguPhap": "がたい",
+    "congthucT": "Vます(bỏ ます)",
+    "congthucS": "がたい",
+    "nghia": "Khó.../ Không thể…",
+    "cachSD": "Không thể nào mà .../ Khó mà…\n\nLà cách nói cứng, thường đi với những động từ thể hiện nhận thức như: 信じる、許す、 理解する、想像する、耐える、 表 す、言う...",
+    "viDu": "友人が難病におかされてしまうなんて、受け入れがたい事で、動揺を隠せない\n\nこの番組は、間違った情報を発信しているので信じがたい\n\n大勢の前で彼に馬鹿にされ、耐えがたい屈辱を受けた"
+  },
+  {
+    "id": 5,
+    "tenNguPhap": "かと思うと",
+    "congthucT": "Vた",
+    "congthucS": "かと思うと\nかと思ったら",
+    "nghia": "Vừa mới... đã ngay lập tức…",
+    "cachSD": "Diễn tả 2 trạng thái/ thay đổi diễn ra gần như ngay lập tức\n\nMiêu tả sự vật, người khác, không nói về bản thân mình\n\nKhông đi với đuôi câu: V よう、V るつもり",
+    "viDu": "仕事が一段落したかと思うと、またすぐに別の仕事を任された\n\n空が光ったかと思ったら、カミナリの大きな音が聞こえた\n\n勉強し始めたかと思うと、漫画を読みだしたので、注意をした"
+  },
+  {
+    "id": 6,
+    "tenNguPhap": "か〜かのうちに",
+    "congthucT": "V る/Vた",
+    "congthucS": "か Vない かのうちに",
+    "nghia": "Ngay khi vừa mới ... thì…",
+    "cachSD": "2 hành động/ sự việc trước sau xảy ra gần như đồng thời \n\nVế sau không đi với よう、つもり, câu mệnh lệnh…\n\nVăn viết, ít dùng trong hội thoại thông thường, có thể nói thay bằng Vたとたん(に)",
+    "viDu": "スピーチが終わるか終わらないかのうちに人々は多きな拍手をした\n\n息子はベッドに入るか入らないかのうちに寝てしまった\n\n彼は問題を聞き終えたか終えないかのうちに答えを書き始めた"
+  },
+  {
+    "id": 7,
+    "tenNguPhap": "だけあって",
+    "congthucT": "普通形\nA な・N(である)",
+    "congthucS": "だけあって",
+    "nghia": "Quả nhiên là vì... Nên",
+    "cachSD": "Chính vì do tài năng/ nỗ lực/ vị trí/ trải nghiệm, nên mới…\n\nVế sau là điều gì đó tương xứng với vế trước\n\nLà câu hàm ý khen ngợi, đánh giá cao\n\nCuối câu có thể dùng: だけのことはある、だけある",
+    "viDu": "あの女将さんは日本人だけあって、おもてなしの心が素晴らしい\n\nこのパソコンは値段が高いだけあって、高性能でデザインがいい\n\n10 年日本に住んでるだけあって、発音がとても自然だ"
+  },
+  {
+    "id": 8,
+    "tenNguPhap": "だけに",
+    "congthucT": "V(普)/A い(普) \nA な\nA な(bỏな) である\nN (である)",
+    "congthucS": "だけに",
+    "nghia": "Chính bởi... thế nên là…\nChính bởi... nên lại càng…",
+    "cachSD": "Vì một nguyên nhân, lí do, hoàn cảnh nào đó nên (vế sau) có 1 điều gì đó đương nhiên như vậy/ kết quả gì đó phát sinh mà có thể dự đoán được từ điều nêu ra ở đằng trước\n\nVế sau thường đưa ra 1 cảm xúc nào đó\n\nVì 1 nguyên nhân đặc biệt nào đó thế nên (vế sau) lại càng... => nhấn mạnh cảm xúc ở vế sau",
+    "viDu": "この物件は、安いだけに何かあるのではないかと不安になる\n\n彼は、経験者だけに、他の人と 仕事の進み具合が違う\n\n一生懸命練習しただけに試合で負けたことは大変ショックだった"
+  },
+  {
+    "id": 9,
+    "tenNguPhap": "ばこそ",
+    "congthucT": "V ば\nA い(bỏい) ければ\nA な(bỏな) であれば\nN であれば",
+    "congthucS": "こそ",
+    "nghia": "Chính vì... nên mới…",
+    "cachSD": "Nhấn mạnh vào nguyên nhân được đề cập đến ở vế trước\n\nLà cách nói cứng thường dùng trong văn viết",
+    "viDu": "忙しければこそ、自分で工夫して時間を作る\n\n健康であればこそ、自分の好きなことが年を取っても実現できる\n\nこどもの将 来を思えばこそ、 厳しく教 育をしている"
+  },
+  {
+    "id": 10,
+    "tenNguPhap": "ばかりに",
+    "congthucT": "普通形\n(A な・である・Nである)",
+    "congthucS": "ばかりに",
+    "nghia": "Chỉ vì... mà…",
+    "cachSD": "Chỉ vì một nguyên nhân nào đó mà dẫn tới 1 kết quả không tốt hoặc ngoài ý muốn\n\nCâu nói chứa cảm xúc hối tiếc, hối hận\n\nCách nói cứng, có thể thay bằng せいで",
+    "viDu": "有名人であるばかりに、つねに周りを気にしなければならない\n\n私が勝手なばかりに、みんなに迷惑をかけてしまった\n\n財布を忘れたばかりに、電車に乗ることができず、遅刻してしまった"
+  },
+  {
+    "id": 11,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 12,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 13,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 14,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 15,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 16,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 17,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 18,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 19,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 20,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 21,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 22,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 23,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 24,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 25,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 26,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 27,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 28,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 29,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 30,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 31,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 32,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 33,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 34,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 35,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 36,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 37,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 38,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 39,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 40,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 41,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 42,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 43,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 44,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 45,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 46,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 47,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 48,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 49,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 50,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 51,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 52,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 53,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 54,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 55,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 56,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 57,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 58,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 59,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 60,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 61,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 62,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 63,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 64,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 65,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 66,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 67,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 68,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 69,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 70,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 71,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 72,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 73,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 74,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 75,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 76,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 77,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 78,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 79,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 80,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 81,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 82,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 83,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 84,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 85,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 86,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 87,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 88,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 89,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 90,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 91,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 92,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 93,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 94,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 95,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 96,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 97,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 98,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 99,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 100,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 101,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 102,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 103,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 104,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 105,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 106,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 107,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 108,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 109,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 110,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  },
+  {
+    "id": 111,
+    "tenNguPhap": "",
+    "congthucT": "",
+    "congthucS": "",
+    "nghia": "",
+    "cachSD": "",
+    "viDu": ""
+  }
+]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131485547492",
+    "project_id": "grammarn2app",
+    "storage_bucket": "grammarn2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131485547492:android:1098c56deb2b065dad65f1",
+        "android_client_info": {
+          "package_name": "com.kiennt1096.nguphapn2_app.nguphapn2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131485547492-9nstugncbnvpa6m61p2sv2t961dmvto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ChNwouJyHlwlVNZaFH3HLoC97BQjatA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131485547492-9nstugncbnvpa6m61p2sv2t961dmvto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
